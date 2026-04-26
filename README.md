@@ -1,5 +1,5 @@
 # 💫 About Me:
-ull-Stack Developer · Tech Creator · PC Specialist<br><br>I build web systems that fix real business problems — faster workflows, cleaner dashboards, smoother customer experiences.
+Full-Stack Developer · Tech Creator · PC Specialist<br><br>I build web systems that fix real business problems — faster workflows, cleaner dashboards, smoother customer experiences.
 
 
 ## 🌐 Socials:
