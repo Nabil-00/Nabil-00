@@ -3,11 +3,13 @@ Full-Stack Developer · Tech Creator · PC Specialist<br><br>I build web systems
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/killb33l) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@I_nabeel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nabeel0079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabeelismailabdulkadir15@gmail.com) 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/killb33l) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@I_nabeel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nabeel0079) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabeelismailabdulkadir15@gmail.com) 
 
 Currently working on:
 - 🧠 NorthBridge — AI-powered financial system for adaptive payments
 - 🎓 HAMA — LMS platform with integrated payment and certification system
+- 🎬 CreatorOs - an Ai powered Operating system for content Creators
+- ⚰️ Grounded - Ai powered Ideation Playground 
 
 ---
 
